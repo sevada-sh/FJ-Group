@@ -66,6 +66,10 @@ input {
     display: none;
 }
 
+.nothidden {
+    display: block;
+}
+
 #lang {
     cursor: pointer;
 }
